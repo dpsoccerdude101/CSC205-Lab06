@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SortComparator
+comment0.text=\r\n\ Tests\ GenericSortingMethods\ class\r\n\r\n\ @author\ (Kurt\ Mueller\ &\ Dennis\ Pavlyuk)\r\n\ @version\ (9/26/19)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ fillArray(java.lang.Integer[])
+numComments=3
